@@ -1,7 +1,10 @@
 f1(){
 HI CODE
+<<<<<<< HEAD
 HI Code3
+=======
 HI Code4
+>>>>>>> commit 4
 }
 
 f2(){
